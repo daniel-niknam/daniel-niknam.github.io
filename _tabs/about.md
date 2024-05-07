@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+I am a skilled and self-educated developer with more than 10 years of experience in web development, building a range of advanced applications using Ruby and PHP. An xperienced technical leader with good communication skills and enthusiasm for learning. The fine knowledge of project lifecycle makes me a good candidate for implementing applications from design to deploy.

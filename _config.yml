@@ -16,8 +16,9 @@ timezone: Australia/Melbourne
 
 title: Daniel Niknam # the main title
 
-tagline: Personal Blog # it will display as the sub-title
+tagline: Sharing my thoughts, and experiences as a lead software engineer # it will display as the sub-title
 
+author: Daniel Niknam
 description: >- # used by seo meta and the atom feed
   Daniel Niknam Personal Website
 

@@ -4,7 +4,7 @@ description: Starting again! Hello World!
 date: 2024-05-07 18:00:00 +1000
 categories: []
 tags: []
-pin: true
+pin: false
 math: false
 mermaid: false
 image:
@@ -19,3 +19,7 @@ As a lead software engineer, I love diving into the world of coding and leadersh
 My blogging journey has had its ups and downs. Sometimes ideas flow easily, and other times, it's like pulling teeth to write even a single sentence. But I've learned that the important thing isn't just the words I write, but the journey I take while writing them. I want to start again and share my thoughts and thinking.
 
 Coming back to blogging feels like catching up with an old friend. It's a chance to share what I've learned in my years of coding and leadership, talk about the tough stuff, and celebrate the wins.
+
+Well, my goal is to keep it casual so I don't have to put a lot of pressure on myself.
+
+Cheers 🍻 ❤️

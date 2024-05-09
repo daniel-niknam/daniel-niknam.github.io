@@ -4,8 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![Desktop View](/assets/daniel-niknam-hq.jpg){: height="50" }
-_This is me_
+![Daniel Niknam](/assets/daniel-niknam-hq.jpg){: alt="Daniel Niknam" .shadow .rounded .w-25 .left }
 
 Hi there,
 

@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+
+const lqip = require('lqip');
+
+const file = process.argv.slice(2)[0];
+
+lqip.base64(file).then(res => {
+  console.log(res); // "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhY.....
+});

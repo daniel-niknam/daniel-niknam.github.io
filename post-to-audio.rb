@@ -20,10 +20,11 @@ system(<<-BASH)
 #!/usr/bin/env bash
 
 title=$(cat #{post_file_path} | grep "title:" | awk '{gsub("title: ", "", $0); print}')
+description=$(cat #{post_file_path} | grep "description:" | awk '{gsub("description: ", "", $0); print}')
 content=$(pandoc -f markdown -t plain --wrap=none #{post_file_path})
-credit="Thanks for listening. Title of this post is $title and is licensed under CC BY-SA. Read and listen to more content in my website: niknam.org.\nThis audio is generated using Piper voice generator project. Background music is from Calm Morning by PianoAmor from pixabay.com."
+credit="Thanks for listening. Title of this post is $title, $description, and is licensed under CC BY-SA. Read and listen to more content in my website: niknam.org.\nThis audio is generated using Piper voice generator project. Background music is from Calm Morning by PianoAmor from pixabay.com."
 
-echo "$title\n$content\n$credit" \
+echo "$title.\n$description.\n$content\n$credit" \
   | awk '{gsub("{.*}", "", $0); print}' \
   | awk '{gsub("^[ ]*", "", $0); print}' \
   | piper \

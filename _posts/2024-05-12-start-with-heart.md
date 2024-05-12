@@ -14,7 +14,7 @@ image:
   lqip: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAf/AABEIAAcACgMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APyb+Ov7Lnjfw3E3xD+C3jy98OamLPTodW8MC6eLSL77NN9vkutMebEVheeXbTm7tLxLuz1O2haGS7iLLbXXFmlHEuq5YevKCdoype7y6SupQbvaTvqtpR91tLR/pXBnEXDOBo/U+IMhw2LqU6larhczUak5r21J0p4bH0IzUq2Ha1w9eg418DU/fUqVWfLKDv8Ahoma1/0a70VY7q2/cXKGKGYpcQ/u5kMyXSpKVkVh5qKqyY3KACBWboP+ZfcfL+2qvW2/95/5n//Z
 ---
 
-{% include embed/audio.html src='/assets/posts/2024-05-12-start-with-heart.mp3' title='Listen to the audio version of this content' %}
+{% include embed/audio.html src='/assets/audio/posts/2024-05-12-start-with-heart.mp3' title='Listen to the audio version of this content' %}
 
 ## Introduction
 In the world of engineering leadership, where technical skill often takes center stage, it’s easy to overlook the pivotal role that soft skills play in driving success. Yet, in the midst of the complexities of project management, team dynamics, and professional growth, one principle has stood out to me as particularly impactful: “Start with Heart.”

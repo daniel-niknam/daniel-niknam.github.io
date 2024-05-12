@@ -21,12 +21,13 @@ system(<<-BASH)
 
 title=$(cat #{post_file_path} | grep "title:" | awk '{gsub("title: ", "", $0); print}')
 description=$(cat #{post_file_path} | grep "description:" | awk '{gsub("description: ", "", $0); print}')
+author="Daniel Niknam"
 content=$(pandoc -f markdown -t plain --wrap=none #{post_file_path})
 credit="Thanks for listening. Title of this post is $title, $description, and is licensed under CC BY-SA 4.0. Read and listen to more content in my website: niknam.org.\nThis audio is generated using the Piper voice generator project from github.com/rhasspy/piper. The background music is Calm Morning by PianoAmor from pixabay.com."
 
 mkdir -p assets/audio/posts
 
-echo "$title.\n$description.\n$content\n$credit" \
+echo "$title.\n$description.\nBy $author.\n$content\n$credit" \
   | awk '{gsub("{.*}", "", $0); print}' \
   | awk '{gsub("^[ ]*", "", $0); print}' \
   | piper \

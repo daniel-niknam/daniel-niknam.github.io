@@ -195,6 +195,9 @@ exclude:
   - LICENSE
   - rollup.config.js
   - package*.json
+  - ./lqip-generator
+  - ./node_modules
+  - ./post-to-audio.rb
 
 jekyll-archives:
   enabled: [categories, tags]

@@ -3,7 +3,7 @@ title: Start with heart
 description: An important lesson from Crucial Conversations book
 date: 2024-05-10 18:00:00 +1000
 categories: [Leadership]
-tags: [soft skills, crucial conversations, communications, team building, leadership, book nuggets]
+tags: [Soft Skills, Crucial Conversations, Communications, Team Building, Leadership, Book Nuggets]
 pin: true
 math: false
 mermaid: false

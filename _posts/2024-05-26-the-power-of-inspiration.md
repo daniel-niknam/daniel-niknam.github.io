@@ -58,7 +58,7 @@ I would recommend Eric Mosley and Derek Irvine's book "The Power of Thanks" whic
 > Have you used any of these toolkits before? if not, which one of them you want to try first?
 {: .prompt-info }
 
-### Leading by Example
+## Leading by Example
 
 Ultimately, like so many effective leaders, you have to stop saying "Do as I say not as I do" and you have to actively demonstrate the values and principles you wish to see in your team. Quick reminder, there is no shame in doing that. Remember, your actions speak louder than words, and set a standard for your team to follow. When you as a leader, demonstrate commitment, resilience, and passion, you will inspire your team to mirror these qualities. This alignment between words and actions ramps up the credibility and trust that you are building with your team, making the inspiration genuine and sustainable.
 
@@ -68,4 +68,5 @@ Do you want to know about an example? Mahatma Gandhi's principle of "Be the chan
 
 To sum up, a leader's ability to inspire is crucial. By enabling a sense of purpose, building trust, and leading by example, leaders can transform their teams and achieve extraordinary results. By doing so, leaders unlock potential, foster innovation, and create a long-lasting vision. In the end, it is through inspiration that leaders truly make a difference, turning visions into reality and dreams into accomplishments.
 
-What are your thoughts on the role of inspiration in leadership?
+> What are your thoughts on the role of inspiration in leadership?
+{: .prompt-info }

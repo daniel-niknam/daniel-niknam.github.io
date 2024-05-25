@@ -50,9 +50,6 @@ I can't emphasise this one enough, recognition is incredibly important. Acknowle
 
 I would recommend Eric Mosley and Derek Irvine's book "The Power of Thanks" which goes in great depth on the importance of recognizing and empowering team members to reach their full potential.
 
-> Have you used any of these toolkits before? if not, which one of them you want to try first?
-{: .prompt-info }
-
 ### Storytelling
 
 Storytelling is another powerful tool. By sharing stories of challenges overcome, successes achieved, and lessons learned, you can illustrate the values and visions you want to support. Stories make abstract concepts tangible and relatable, allowing your team members to see themselves in the narrative and feel a part of the journey. One interesting aspect of storytelling is its ability to effectively communicate both vision and recognition. You might have already guessed so many examples for this one but let me add another example.
@@ -64,6 +61,9 @@ The famous speech of Martin Luther King Jr.'s "I Have a Dream" shows how storyte
 Ultimately, like so many effective leaders, you have to stop saying "Do as I say not as I do" and you have to actively demonstrate the values and principles you wish to see in your team. Quick reminder, there is no shame in doing. Your actions speak louder than words, and set a standard for your team to follow. When you as a leader, demonstrate commitment, resilience, and passion, you will inspire your team to mirror these qualities. This alignment between words and actions ramps up the credibility and trust that you are building with your team, making the inspiration genuine and sustainable.
 
 Do you want to know about an example? Mahatma Gandhi's principle of "Be the change you wish to see in the world" encapsulates the power of leading by example, inspiring millions through his steadfast commitment to nonviolence and justice.
+
+> Have you used any of these toolkits before? if not, which one of them do you want to try first?
+{: .prompt-info }
 
 ## Conclusion
 

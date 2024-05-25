@@ -1,7 +1,7 @@
 ---
 title: The Power of Inspiration
 description: One of the most important jobs of a leader
-date: 2024-05-18 18:00:00 +1000
+date: 2024-05-25 18:00:00 +1000
 categories: [Leadership]
 tags: [Leadership Inspiration, Building Trust, Leading by Example, Visionary Leadership]
 pin: false
@@ -34,19 +34,15 @@ Trust is the foundation of any effective team or company. Without it, even the b
 
 Simon Sinek, in one of the greatest books I have ever read about leadership "Leaders Eat Last", highlights how great leaders build environments of trust and cooperation, inspiring loyalty and dedication among their followers. Highly recommended.
 
-## The 3 Important Inspirational Toolkit
+## Inspiring Toolkit
 
-### Vision
+There are numerous ways we can inspire each other, but I have found these 4 to be particularly useful and influential.
 
-But how do we inspire? Well, It's not that complicated; start with a vision. A clear, compelling vision provides direction and meaning. Make sure to communicate it effectively, with passion and conviction. Don't forget about authenticity, that is equally important; You, as a leader, must be genuine in your intentions and actions. Empathy, the ability to understand and share the feelings of others, allows you to connect on a deeper level, making the act of inspiration even more impactful.
+### Inspire by vision
+
+A clear, compelling vision provides direction and meaning. Make sure to communicate it effectively, with passion and conviction. Don't forget about authenticity, that is equally important; You, as a leader, must be genuine in your intentions and actions. Empathy, the ability to understand and share the feelings of others, allows you to connect on a deeper level, making the act of inspiration even more impactful.
 
 You can read more about empathy in my previous blog post, [Start with Heart]({% link _posts/2024-05-12-start-with-heart.md %}).
-
-### Storytelling
-
-Storytelling is another powerful tool. By sharing stories of challenges overcome, successes achieved, and lessons learned, you can illustrate the values and visions you want to support. Stories make abstract concepts tangible and relatable, allowing your team members to see themselves in the narrative and feel a part of the journey. You might have already guessed so many examples for this one but let me add another example.
-
-The famous speech of Martin Luther King Jr.'s "I Have a Dream" shows how storytelling can be powerful to convey a vision and inspire collective action.
 
 ### Recognition
 
@@ -57,9 +53,15 @@ I would recommend Eric Mosley and Derek Irvine's book "The Power of Thanks" whic
 > Have you used any of these toolkits before? if not, which one of them you want to try first?
 {: .prompt-info }
 
-## Leading by Example
+### Storytelling
 
-Ultimately, like so many effective leaders, you have to stop saying "Do as I say not as I do" and you have to actively demonstrate the values and principles you wish to see in your team. Quick reminder, there is no shame in doing that. Remember, your actions speak louder than words, and set a standard for your team to follow. When you as a leader, demonstrate commitment, resilience, and passion, you will inspire your team to mirror these qualities. This alignment between words and actions ramps up the credibility and trust that you are building with your team, making the inspiration genuine and sustainable.
+Storytelling is another powerful tool. By sharing stories of challenges overcome, successes achieved, and lessons learned, you can illustrate the values and visions you want to support. Stories make abstract concepts tangible and relatable, allowing your team members to see themselves in the narrative and feel a part of the journey. One interesting aspect of storytelling is its ability to effectively communicate both vision and recognition. You might have already guessed so many examples for this one but let me add another example.
+
+The famous speech of Martin Luther King Jr.'s "I Have a Dream" shows how storytelling can be powerful to convey a vision and inspire collective action.
+
+### Leading by Example
+
+Ultimately, like so many effective leaders, you have to stop saying "Do as I say not as I do" and you have to actively demonstrate the values and principles you wish to see in your team. Quick reminder, there is no shame in doing. Your actions speak louder than words, and set a standard for your team to follow. When you as a leader, demonstrate commitment, resilience, and passion, you will inspire your team to mirror these qualities. This alignment between words and actions ramps up the credibility and trust that you are building with your team, making the inspiration genuine and sustainable.
 
 Do you want to know about an example? Mahatma Gandhi's principle of "Be the change you wish to see in the world" encapsulates the power of leading by example, inspiring millions through his steadfast commitment to nonviolence and justice.
 
@@ -67,5 +69,7 @@ Do you want to know about an example? Mahatma Gandhi's principle of "Be the chan
 
 To sum up, a leader's ability to inspire is crucial. By enabling a sense of purpose, building trust, and leading by example, leaders can transform their teams and achieve extraordinary results. By doing so, leaders unlock potential, foster innovation, and create a long-lasting vision. In the end, it is through inspiration that leaders truly make a difference, turning visions into reality and dreams into accomplishments.
 
-> What are your thoughts on the role of inspiration in leadership?
+> Now, **I want to invite you to take a moment to say thank you to someone who has inspired you**. Write a post and tell your story or just simply send a text message. So who has inspired you? Share your story, I would love to read it! **#InspiredByYou**
+>
+> If you want to know about my story, read my previous post: [Envato]({% link _posts/2024-05-18-envato.md %}).
 {: .prompt-info }

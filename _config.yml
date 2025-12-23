@@ -30,7 +30,7 @@ github:
   username: daniel-niknam # change to your github username
 
 linkedin:
-  username: mhmdniknam  # change to your twitter username
+  username: mhmdniknam # change to your twitter username
 
 social:
   # Change to your full name.
@@ -107,7 +107,7 @@ social_preview_image: # string, local or CORS resources
 toc: true
 
 comments:
-  # Global switch for the post comment system. Keeping it empty means disabled.
+  # Global switch for the post-comment system. Keeping it empty means disabled.
   provider: # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
@@ -137,9 +137,9 @@ assets:
     env: # [development | production]
 
 pwa:
-  enabled: false # the option for PWA feature (installable)
+  enabled: true # The option for PWA feature (installable)
   cache:
-    enabled: false # the option for PWA offline cache
+    enabled: true # The option for PWA offline cache
     # Paths defined here will be excluded from the PWA cache.
     # Usually its value is the `baseurl` of another website that
     # shares the same domain name as the current website.
@@ -154,6 +154,7 @@ baseurl: ""
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
+  footnote_backlink: "&#8617;&#xfe0e;"
   syntax_highlighter: rouge
   syntax_highlighter_opts: # Rouge Options › https://github.com/jneen/rouge#full-options
     css_class: highlight
@@ -219,6 +220,8 @@ exclude:
   - ./lqip-generator
   - ./node_modules
   - ./post-to-audio.rb
+  - purgecss.js
+  - "*.config.js"
 
 jekyll-archives:
   enabled: [categories, tags]
